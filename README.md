@@ -1,11 +1,11 @@
 ## How to Start?
 
-Run Server
+## Run Server
 
-## go run server/server.go
+go run server/server.go
 
-Run Client
+## Run Client
 
-## go run client/client.go
+go run client/client.go
 
 
